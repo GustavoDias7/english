@@ -1,0 +1,1 @@
+# python3 app.py --video ./videos/Ep1-Wayside.mp4 --subtitle ./subtitle/Ep1-Wayside.vtt --remove_sec 52.8 --export_first 5
